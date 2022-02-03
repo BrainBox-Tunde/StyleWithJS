@@ -1,0 +1,28 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav {
+    background-color: lightseagreen;
+    width: 100%;
+    padding: 10px;
+}
+
+nav h2 {
+    color: white;
+}
+
+main {
+    margin: 0 20%;
+}
+
+main p {
+    font-size: 1.2em;
+}
+
+main h2 {
+    color: lightseagreen;
+}
